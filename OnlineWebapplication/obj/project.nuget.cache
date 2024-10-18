@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "PkG20pX+DmDniMIPYOXCtf425ZRTZJ31muE+CPhMJw0HE3w0wjZ1ibJUFo2RcDkaxNV/Nf+J7/CDE30Ta292sg==",
+  "dgSpecHash": "Z80qDQFXK+ReRHm1Xc6SDo4/zhi275O7cYQI8bQ4ZpH8R5IMqhP0K6XYUlSF3KkLu1x1Em9SQHkFSZhVp0cszA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Dino\\Documents\\Testing\\ProductAPI\\OnlineWebapplication\\OnlineWebapplication\\OnlineWebapplication.csproj",
   "expectedPackageFiles": [
@@ -34,6 +34,8 @@
     "C:\\Users\\Dino\\.nuget\\packages\\runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\Dino\\.nuget\\packages\\runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\Dino\\.nuget\\packages\\runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
+    "C:\\Users\\Dino\\.nuget\\packages\\selenium.chrome.webdriver\\2.40.0\\selenium.chrome.webdriver.2.40.0.nupkg.sha512",
+    "C:\\Users\\Dino\\.nuget\\packages\\selenium.webdriver\\3.141.0\\selenium.webdriver.3.141.0.nupkg.sha512",
     "C:\\Users\\Dino\\.nuget\\packages\\system.appcontext\\4.3.0\\system.appcontext.4.3.0.nupkg.sha512",
     "C:\\Users\\Dino\\.nuget\\packages\\system.buffers\\4.3.0\\system.buffers.4.3.0.nupkg.sha512",
     "C:\\Users\\Dino\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
