@@ -6,18 +6,19 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "OnlineWebapplication/1.0.0": {
+      "OnlineWebApplication/1.0.0": {
         "dependencies": {
           "MSTest.TestAdapter": "2.2.10",
           "MSTest.TestFramework": "2.2.10",
           "Microsoft.NET.Test.Sdk": "17.3.2",
           "Selenium.Chrome.WebDriver": "2.40.0",
+          "Selenium.Support": "3.12.1",
           "Selenium.WebDriver": "3.141.0",
           "coverlet.collector": "3.1.2",
           "Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions": "14.0.0.0"
         },
         "runtime": {
-          "OnlineWebapplication.dll": {}
+          "OnlineWebApplication.dll": {}
         }
       },
       "coverlet.collector/3.1.2": {},
@@ -446,6 +447,17 @@
       "runtime.ubuntu.16.04-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {},
       "runtime.ubuntu.16.10-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {},
       "Selenium.Chrome.WebDriver/2.40.0": {},
+      "Selenium.Support/3.12.1": {
+        "dependencies": {
+          "Selenium.WebDriver": "3.141.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/WebDriver.Support.dll": {
+            "assemblyVersion": "3.12.1.0",
+            "fileVersion": "3.12.1.0"
+          }
+        }
+      },
       "Selenium.WebDriver/3.141.0": {
         "dependencies": {
           "Newtonsoft.Json": "10.0.3"
@@ -1152,7 +1164,7 @@
     }
   },
   "libraries": {
-    "OnlineWebapplication/1.0.0": {
+    "OnlineWebApplication/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -1373,6 +1385,13 @@
       "sha512": "sha512-T/RDPvialS0tk6W1ZRoPy/uFNgbEgW+YJplNQByyE9URhhHszJqPu+IIbK0Htgky5R8WjppUwjrxxiFeu73cXw==",
       "path": "selenium.chrome.webdriver/2.40.0",
       "hashPath": "selenium.chrome.webdriver.2.40.0.nupkg.sha512"
+    },
+    "Selenium.Support/3.12.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vConmmoCZqXS/c5MThury8BdHD5mK5blomyt4rstJBYs0HJeMcT+W02AnLIzHf0wOCFxtNgYtre1BR4NUrVvDA==",
+      "path": "selenium.support/3.12.1",
+      "hashPath": "selenium.support.3.12.1.nupkg.sha512"
     },
     "Selenium.WebDriver/3.141.0": {
       "type": "package",

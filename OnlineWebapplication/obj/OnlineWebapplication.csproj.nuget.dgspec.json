@@ -8,7 +8,7 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "C:\\Users\\Dino\\Documents\\Testing\\ProductAPI\\OnlineWebapplication\\OnlineWebapplication\\OnlineWebapplication.csproj",
-        "projectName": "OnlineWebapplication",
+        "projectName": "OnlineWebApplication",
         "projectPath": "C:\\Users\\Dino\\Documents\\Testing\\ProductAPI\\OnlineWebapplication\\OnlineWebapplication\\OnlineWebapplication.csproj",
         "packagesPath": "C:\\Users\\Dino\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Dino\\Documents\\Testing\\ProductAPI\\OnlineWebapplication\\OnlineWebapplication\\obj\\",

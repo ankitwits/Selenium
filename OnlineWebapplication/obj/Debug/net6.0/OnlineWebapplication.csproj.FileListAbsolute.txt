@@ -98,3 +98,4 @@ C:\Users\Dino\Documents\Testing\ProductAPI\OnlineWebapplication\OnlineWebapplica
 C:\Users\Dino\Documents\Testing\ProductAPI\OnlineWebapplication\OnlineWebapplication\obj\Debug\net6.0\OnlineWebapplication.pdb
 C:\Users\Dino\Documents\Testing\ProductAPI\OnlineWebapplication\OnlineWebapplication\obj\Debug\net6.0\OnlineWebapplication.genruntimeconfig.cache
 C:\Users\Dino\Documents\Testing\ProductAPI\OnlineWebapplication\OnlineWebapplication\obj\Debug\net6.0\ref\OnlineWebapplication.dll
+C:\Users\Dino\Documents\Testing\ProductAPI\OnlineWebapplication\OnlineWebapplication\bin\Debug\net6.0\WebDriver.Support.dll
